@@ -16,7 +16,7 @@ $ ls -l /tmp/yoga_graph.*
 1000K -rw-r--r--. 1 nobody nobody 999K Jun  4 13:11 /tmp/yoga_graph.png
 ```
 
-From here, open the PNG file in your favorite image viewer.
+From here, open the PNG file in your favorite image viewer. Any graph edges that are green show the path to of the longest chain.
 
 Here's an example graph based on the above input:
 ![Asana Graph](yoga_graph.png)
