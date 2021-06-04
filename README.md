@@ -7,7 +7,7 @@ $ make build
 ```
 
 
-From there, you can run (the parameters currently are Case Sensitive):
+From there, you can run (the parameters currently are *Case Sensitive*):
 
 ```shell
 $ docker run -v /tmp:/data -e EXPERIENCE_LEVELS="Beginner" -e INTENSITY_LEVELS="Low" -e STRENGTH_AREAS="Back,Abdomen" -e MOBILITY_AREAS="Back,Abdomen" --rm yoga_asana_graph:1.0.0
