@@ -1,0 +1,3909 @@
+Accomplished Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Hip-Joint
+  - Knee
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Bound Angle Pose A
+  - Easy Pose
+  - Figure Four Stretch Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+Ananta's Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Leg
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Hand
+  - Shoulder
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Reclining Big Toe Pose B
+Anjaneya's Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: Low
+  prep_poses:
+  - Child's Pose
+  - Table Pose
+Archer Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Marichi's Pose A
+  - Seated Forward Bend Pose A
+  - Staff Pose
+Auspicious Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Hip-Joint
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Head to Knee Pose A
+  - Lotus Pose
+Balancing Half Moon Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Hip-Joint
+  - Leg
+  - Ankle
+  - Foot
+  intensity_level: Medium
+  prep_poses:
+  - Extended Triangle Pose
+  - Side Plank Pose
+Balancing Table Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Buttocks
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Table Pose
+Basic One-Legged King Pigeon Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Figure Four Stretch Pose
+  - Head to Knee Pose A
+  - Lizard Pose
+  - One-Legged Fierce Pose
+Bharadvaja's Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Child's Pose
+  - Threading the Needle Pose
+Big Toe Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Standing Forward Bend Pose
+Bikram Triangle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Hip-Joint
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Shoulder
+  - Arm
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  - Ankle
+  - Foot
+  intensity_level: Medium
+Bird of Paradise Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Back
+  - Abdomen
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  - Foot
+  - Ankle
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Compass Pose
+  - Extended Hand to Big Toe Pose A
+  - Extended Hand to Big Toe Pose B
+  - Extended Side Angle Pose
+  - Marichi's Pose A
+Boat Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Half Standing Forward Bend Pose
+  - Seated Forward Bend Pose A
+  - Staff Pose
+  - Standing Forward Bend Pose
+Both Big Toes Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Boat Pose
+  - Extended Triangle Pose
+  - Feet on Hands Pose
+  - Reclining Angle Pose
+  - Seated Forward Bend Pose A
+  - Standing Forward Bend Pose
+Bound Angle Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Extended Triangle Pose
+  - Head to Knee Pose A
+  - Head to Knee Pose B
+  - Head to Knee Pose C
+Bound Angle Pose B:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Bound Angle Pose A
+  - Extended Side Angle Pose
+  - Head to Knee Pose A
+Bound Angle Pose C:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  improved_strength_sites:
+  - Back
+  intensity_level: Low
+  prep_poses:
+  - Staff Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Bound Hand Headstand Pose A:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Boat Pose
+  - Dolphin Pose
+  - Downward Facing Dog Pose
+  - Four-Limbed Staff Pose
+  - Plank Pose
+  - Side Plank Pose
+Bound Hand Headstand Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Arm
+  - Chest
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Feathered Peacock Pose
+  - Forearm Plank Pose
+  - Four-Limbed Staff Pose
+  - Free Hand Headstand Pose A
+  - Plank Pose
+  - Side Plank Pose
+Bound Hand Headstand Pose C:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Arm
+  - Chest
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Feathered Peacock Pose
+  - Forearm Plank Pose
+  - Four-Limbed Staff Pose
+  - Free Hand Headstand Pose A
+  - Plank Pose
+  - Side Plank Pose
+Bound Hand Headstand Pose D:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Arm
+  - Chest
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Feathered Peacock Pose
+  - Forearm Plank Pose
+  - Four-Limbed Staff Pose
+  - Free Hand Headstand Pose A
+  - Plank Pose
+  - Side Plank Pose
+Bound Lotus Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Chest
+  - Shoulder
+  - Hip-Joint
+  - Leg
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Intense Side Stretch Pose
+  - Lotus Pose
+  - Marichi's Pose A
+  - Marichi's Pose B
+  - Marichi's Pose C
+  - Marichi's Pose D
+  - Standing Wide-Legged Forward Bend Pose C
+Bow Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Locust Pose
+  - Sphinx Pose
+  - Standing Wide-Legged Forward Bend Pose C
+Camel Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Cobra Pose
+  - Locust Pose
+  - Sphinx Pose
+  - Upward Facing Dog Pose
+  - Upward Plank Pose
+Cat Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: Low
+  prep_poses:
+  - Table Pose
+Child's Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Knee
+  - Ankle
+  - Foot
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Cat Pose
+Cobra Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Locust Pose
+  - Sphinx Pose
+Compass Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Extended Side Angle Pose
+  - Extended Triangle Pose
+  - Gate Pose
+  - Revolved Head to Knee Pose
+Corpse Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+Couch Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Knee
+  - Ankle
+  - Foot
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  - Buttocks
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Fish Pose
+  - Hero Pose
+  - Reclining Hero Pose
+Cow Face Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Shoulder
+  - Arm
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Fire Hydrant Pose
+  - Intense Side Stretch Pose
+  - Revolved Side Angle Pose
+  - Revolved Triangle Pose
+  - Warrior I Pose
+Cow Face Pose A:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Half Lord of the Fishes Pose
+  - Revolved Triangle Pose
+Cow Face Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Cow Face Pose A
+  - Half Lord of the Fishes Pose
+  - Revolved Triangle Pose
+  - Upward Bow Pose
+Cow Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Table Pose
+Crane Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Hip-Joint
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Four-Limbed Staff Pose
+Crescent High Lunge Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Foot
+  - Ankle
+  - Knee
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+Crocodile Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Shoulder
+  - Thoracic-Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Cobra Pose
+  - Sphinx Pose
+Dead Bug Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Back
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Hip-Joint
+  intensity_level: Low
+  prep_poses:
+  - Knees to Chest Pose
+  - Reclining Big Toe Pose A
+Deer Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Bharadvaja's Pose
+Diamond Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Leg
+  - Knee
+  - Foot
+  - Ankle
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Child's Pose
+Diamond Stretch Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+Dolphin Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Shoulder
+  - Chest
+  - Back
+  - Buttocks
+  - Leg
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Shoulder
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Forearm Plank Pose
+Downward Facing Dog Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  - Shoulder
+  - Hip-Joint
+  - Ankle
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: Medium
+  prep_poses:
+  - Child's Pose
+  - Plank Pose
+  - Puppy Dog Pose
+  - Table Pose
+Downward Facing Frog Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Standing Wide-Legged Forward Bend Pose A
+  - Warrior II Pose
+Downward Facing Tree Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Downward Facing Dog Pose
+  - Feathered Peacock Pose
+  - Four-Limbed Staff Pose
+  - Free Hand Headstand Pose A
+  - Plank Pose
+Duck Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Feathered Peacock Pose
+  - Half Headstand Pose
+  - Lotus Pose
+Eagle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  - Foot
+  - Ankle
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  - Foot
+  - Ankle
+  - Shoulder
+  - Chest
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Fierce Pose
+  - One-Legged Fierce Pose
+  - Tree Pose
+  - Warrior I Pose
+Ear Pressing Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Neck
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Intense Side Stretch Pose
+  - Knees to Chest Pose
+  - Plow Pose
+  - Seated Forward Bend Pose A
+Easy Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+Eight Angle Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Hip-Joint
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Elephant's Trunk Pose
+  - Revolved Triangle Pose
+Elephant's Trunk Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Compass Pose
+  - Humble Warrior Pose
+  - Marichi's Pose A
+  - Pendant Pose
+  - Warrior I Pose
+Embryo Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Neck
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  intensity_level: Low
+  prep_poses:
+  - Ear Pressing Pose
+  - Lotus Pose
+  - Plow Pose
+  - Supported Shoulderstand Pose
+  - Upward Lotus Pose
+Embryo in Womb Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Chest
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Head to Knee Pose A
+  - Lotus Pose
+Extended Hand to Big Toe Pose A:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Intense Side Stretch Pose
+Extended Hand to Big Toe Pose B:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Foot
+  - Ankle
+  - Knee
+  - Hip-Joint
+  - Abdomen
+  - Back
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Extended Side Angle Pose
+  - Extended Triangle Pose
+Extended Hand to Big Toe Pose C:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Hip-Joint
+  - Foot
+  - Ankle
+  - Knee
+  - Abdomen
+  intensity_level: High
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Extended Hand to Big Toe Pose A
+  - Intense Side Stretch Pose
+  - Mountain Pose
+Extended Side Angle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Foot
+  - Ankle
+  - Buttocks
+  - Hip-Joint
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Extended Triangle Pose
+  - Half Moon Pose
+  - Warrior II Pose
+Extended Triangle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Downward Facing Dog Pose
+  - Extended Side Angle Pose
+  - Warrior II Pose
+  - Warrior I Pose
+Feathered Peacock Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Forearm Plank Pose
+  - Puppy Dog Pose
+Feet on Hands Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Ankle
+  - Foot
+  improved_strength_sites:
+  - Leg
+  - Foot
+  - Ankle
+  intensity_level: Medium
+  prep_poses:
+  - Rag Doll Pose
+  - Standing Forward Bend Pose
+Fierce Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Leg
+  - Foot
+  - Ankle
+  - Buttocks
+  - Hip-Joint
+  - Abdomen
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Raised Arm Pose
+Figure Four Stretch Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Leg
+  - Back
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Knees to Chest Pose
+  - Wind Relieving Pose
+Fire Hydrant Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Wrist
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Table Pose
+Fire Log Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Hip-Joint
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Basic One-Legged King Pigeon Pose
+  - Warrior II Pose
+Firefly Pose A:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Four-Limbed Staff Pose
+  - Shoulder Pressing Pose
+  - Tortoise Pose
+Firefly Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Big Toe Pose
+  - Marichi's Pose A
+  - Sleeping Tortoise Pose
+  - Standing Wide-Legged Forward Bend Pose B
+  - Tortoise Pose
+Firefly Pose C:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  - Buttocks
+  intensity_level: High
+  prep_poses:
+  - Diamond Stretch Pose
+  - Firefly Pose B
+  - Rag Doll Pose
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+Fish Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  intensity_level: Medium
+  prep_poses:
+  - Cobra Pose
+  - Locust Pose
+  - Reverse Table Pose
+  - Sphinx Pose
+  - Upward Plank Pose
+Forearm Plank Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Shoulder
+  - Leg
+  intensity_level: High
+Four-Limbed Staff Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Plank Pose
+Free Hand Headstand Pose A:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Buttocks
+  - Leg
+  - Arm
+  - Wrist
+  - Hand
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Four-Limbed Staff Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Free Hand Headstand Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Buttocks
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Feathered Peacock Pose
+  - Free Hand Headstand Pose A
+Free Hand Headstand Pose C:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Arm
+  - Chest
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Feathered Peacock Pose
+  - Forearm Plank Pose
+  - Four-Limbed Staff Pose
+  - Free Hand Headstand Pose A
+  - Plank Pose
+  - Side Plank Pose
+Frog Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Knee
+  - Ankle
+  - Foot
+  improved_strength_sites:
+  - Back
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Half Frog Pose
+  - Locust Pose
+Full Bridge Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Vertebral-Column
+  - Neck
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  - Buttocks
+  intensity_level: High
+  prep_poses:
+  - Fish Pose
+  - Shoulder Supported Bridge Pose
+  - Upward Bow Pose
+  - Upward Facing Dog Pose
+  - Upward Plank Pose
+Garland Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  - Vertebral-Column
+  - Knee
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Anjaneya's Pose
+  - Downward Facing Dog Pose
+  - Rag Doll Pose
+Gate Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Shoulder
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Bharadvaja's Pose
+  - Revolved Head to Knee Pose
+  - Three-Limbed Seated Forward Bend Pose
+Goddess Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Buttocks
+  - Hip-Joint
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Buttocks
+  - Hip-Joint
+  - Leg
+  - Knee
+  - Foot
+  - Ankle
+  intensity_level: Medium
+  prep_poses:
+  - Warrior II Pose
+  - Warrior I Pose
+Great Seal Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Head to Knee Pose A
+  - Head to Knee Pose B
+Half Bound Lotus Seated Forward Bend Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Figure Four Stretch Pose
+  - Half Bound Lotus Standing Forward Bend Pose
+  - Head to Knee Pose A
+  - Seated Forward Bend Pose A
+Half Bound Lotus Standing Forward Bend Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Knee
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Figure Four Stretch Pose
+  - Intense Side Stretch Pose
+  - Tree Pose
+Half Circle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Wrist
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  - Buttocks
+  intensity_level: Medium
+  prep_poses:
+  - Balancing Table Pose
+  - Table Pose
+Half Frog Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Knee
+  - Leg
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Arm
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Intense Side Stretch Pose
+  - Standing Wide-Legged Forward Bend Pose C
+  - Three-Limbed Seated Forward Bend Pose
+  - Upward Facing Dog Pose
+Half Headstand Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Buttocks
+  - Hip-Joint
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Dolphin Pose
+  - Downward Facing Dog Pose
+  - Staff Pose
+Half Lord of the Fishes Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Marichi's Pose C
+  - Revolved Side Angle Pose
+Half Lotus Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Hip-Joint
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Easy Pose
+  - Seated Figure Four Stretch Pose
+Half Monkey Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  - Back
+  improved_strength_sites:
+  - Back
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+Half Moon Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Shoulder
+  - Arm
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Raised Arm Pose
+Half Standing Forward Bend Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Standing Forward Bend Pose
+Happy Baby Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Knees to Chest Pose
+Head to Knee Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Extended Side Angle Pose
+  - Extended Triangle Pose
+Head to Knee Pose B:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  - Knee
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+Head to Knee Pose C:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  - Knee
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+Hero Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Foot
+  - Ankle
+  - Knee
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+  prep_poses:
+  - Anjaneya's Pose
+  - Cow Face Pose
+  - Frog Pose
+  - Half Frog Pose
+  - Staff Pose
+  - Three-Limbed Seated Forward Bend Pose
+Heron Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Three-Limbed Seated Forward Bend Pose
+  - Upward Facing Seated Forward Bend Pose
+High Lunge Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  intensity_level: Low
+  prep_poses:
+  - Anjaneya's Pose
+Horse Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Ankle
+  - Leg
+  - Hip-Joint
+  - Abdomen
+  - Shoulder
+  - Arm
+  improved_strength_sites:
+  - Back
+  - Buttocks
+  - Leg
+  - Abdomen
+  - Back
+  intensity_level: High
+  prep_poses:
+  - Eagle Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Warrior I Pose
+Humble Warrior Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Warrior I Pose
+Intense Side Stretch Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Extended Triangle Pose
+  - Revolved Triangle Pose
+  - Standing Wide-Legged Forward Bend Pose C
+  - Warrior I Pose
+Inverted Locust Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Locust Pose
+  - Locust Pose A
+  - Locust Pose B
+  - Puppy Dog Pose
+Inverted Seal Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Shoulder Supported Bridge Pose
+King Arthur's Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Knee
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  intensity_level: Low
+  prep_poses:
+  - Anjaneya's Pose
+King Pigeon Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Camel Pose
+  - Cobra Pose
+  - Frog Pose
+  - Little Thunderbolt Pose
+  - Locust Pose
+  - Pigeon Pose A
+  - Upward Facing Dog Pose
+Knees to Chest Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+Legs Up the Wall Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Vertebral-Column
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Anjaneya's Pose
+  - Downward Facing Dog Pose
+  - Half Monkey Pose
+  - Rag Doll Pose
+  - Shoulder Supported Bridge Pose
+Lion Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: High
+  prep_poses:
+  - Child's Pose
+  - Cobra Pose
+  - Cow Pose
+  - Diamond Pose
+  - Upward Facing Dog Pose
+Little Thunderbolt Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Camel Pose
+  - Locust Pose
+  - Locust Pose A
+  - Locust Pose B
+Lizard Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Crescent High Lunge Pose
+  - Humble Warrior Pose
+  - Warrior I Pose
+Locust Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Sphinx Pose
+Locust Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Neck
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Upward Facing Dog Pose
+Locust Pose B:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Neck
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Upward Facing Dog Pose
+Lord of the Dance Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Knee
+  - Foot
+  - Ankle
+  intensity_level: High
+  prep_poses:
+  - Anjaneya's Pose
+  - Basic One-Legged King Pigeon Pose
+  - Cobra Pose
+  - Extended Hand to Big Toe Pose A
+  - Mermaid Pose
+  - Monkey Pose
+  - Upward Facing Dog Pose
+Lotus Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Hip-Joint
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Basic One-Legged King Pigeon Pose
+  - Figure Four Stretch Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Half Bound Lotus Standing Forward Bend Pose
+Marichi's Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  intensity_level: Medium
+Marichi's Pose B:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  intensity_level: Medium
+Marichi's Pose C:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Leg
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+Marichi's Pose D:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  - Knee
+  - Buttocks
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Marichi's Pose A
+  - Marichi's Pose B
+  - Marichi's Pose C
+  - Revolved Side Angle Pose
+  - Revolved Triangle Pose
+Mermaid Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Anjaneya's Pose
+  - Basic One-Legged King Pigeon Pose
+  - Half Frog Pose
+  - Puppy Dog Pose
+Monkey Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Abdomen
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Anjaneya's Pose
+  - Basic One-Legged King Pigeon Pose
+  - Half Monkey Pose
+  - One-Legged King Pigeon Pose I
+  - Revolved Side Angle Pose
+  - Three-Limbed Seated Forward Bend Pose
+Mountain Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  intensity_level: Low
+Noose Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Knee
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Fierce Pose
+  - Marichi's Pose C
+  - Marichi's Pose D
+  - Revolved Side Angle Pose
+  - Revolved Triangle Pose
+One Foot Behind Head Pose A:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Basic One-Legged King Pigeon Pose
+  - Compass Pose
+  - Figure Four Stretch Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Marichi's Pose A
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+One Foot Behind Head Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Head to Knee Pose A
+  - Marichi's Pose A
+  - Marichi's Pose C
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+One-Handed Tiger Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Wrist
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Balancing Table Pose
+  - Cow Pose
+One-Legged Fierce Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Fierce Pose
+  - Tree Pose
+One-Legged King Pigeon Pose I:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Anjaneya's Pose
+  - Basic One-Legged King Pigeon Pose
+  - Bow Pose
+  - Cobra Pose
+  - Puppy Dog Pose
+  - Upward Bow Pose
+  - Upward Facing Dog Pose
+  - Warrior I Pose
+One-Legged King Pigeon Pose II:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Anjaneya's Pose
+  - Basic One-Legged King Pigeon Pose
+  - Bow Pose
+  - Frog Pose
+  - One-Legged King Pigeon Pose I
+  - Upward Bow Pose
+  - Upward Facing Dog Pose
+One-Legged Koundinya's Pose I:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Four-Limbed Staff Pose
+  - Revolved Hand to Big Toe Pose
+  - Revolved Side Angle Pose
+  - Side Crane Pose
+One-Legged Koundinya's Pose II:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Wrist
+  - Hip-Joint
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Extended Hand to Big Toe Pose B
+  - Extended Side Angle Pose
+  - Four-Limbed Staff Pose
+  - Lizard Pose
+Peacock Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Buttocks
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Feathered Peacock Pose
+  - Four-Limbed Staff Pose
+Pendant Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Hip-Joint
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Boat Pose
+  - Four-Limbed Staff Pose
+  - Plank Pose
+Pigeon Pose A:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Camel Pose
+  - Little Thunderbolt Pose
+  - Pigeon Pose B
+  - Upward Bow Pose
+Pigeon Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Camel Pose
+  - Cobra Pose
+  - Frog Pose
+  - Little Thunderbolt Pose
+  - Locust Pose
+  - Locust Pose A
+  - Locust Pose B
+  - Side Bow Pose
+  - Upward Bow Pose
+  - Upward Facing Dog Pose
+Plank Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Table Pose
+Plow Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Neck
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Seated Forward Bend Pose A
+  - Supported Shoulderstand Pose
+  - Upward Plank Pose
+Puppy Dog Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Leg
+  - Shoulder
+  intensity_level: Low
+Rabbit Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Shoulder
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Neck
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Child's Pose
+  - Eagle Pose
+  - Knees to Chest Pose
+  - Wind Relieving Pose
+Rag Doll Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Cat Pose
+  - Child's Pose
+  - Downward Facing Dog Pose
+  - Mountain Pose
+Raised Arm Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Mountain Pose
+Raised Legs Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Boat Pose
+  - Cobra Pose
+  - Fish Pose
+  - Upward Facing Dog Pose
+  - Warrior I Pose
+Reclining Angle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Neck
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Boat Pose
+  - Seated Wide Angle Pose A
+  - Seated Wide Angle Pose B
+  - Standing Wide-Legged Forward Bend Pose B
+Reclining Big Toe Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Arm
+  - Shoulder
+  - Hand
+  intensity_level: Low
+  prep_poses:
+  - Big Toe Pose
+  - Boat Pose
+  - Extended Hand to Big Toe Pose A
+  - Extended Triangle Pose
+  - Head to Knee Pose A
+  - Seated Forward Bend Pose A
+  - Standing Forward Bend Pose
+Reclining Big Toe Pose B:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Leg
+  - Hip-Joint
+  improved_strength_sites:
+  - Leg
+  - Hip-Joint
+  - Shoulder
+  - Arm
+  intensity_level: Low
+  prep_poses:
+  - Extended Hand to Big Toe Pose A
+  - Extended Hand to Big Toe Pose B
+  - Extended Triangle Pose
+  - Reclining Big Toe Pose A
+  - Seated Wide Angle Pose A
+  - Standing Wide-Legged Forward Bend Pose D
+Reclining Bound Angle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+Reclining Half Moon Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Shoulder
+  improved_strength_sites:
+  - Back
+  - Shoulder
+  - Arm
+  - Leg
+  - Abdomen
+  intensity_level: Low
+Reclining Hero Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Knee
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Frog Pose
+  - Half Frog Pose
+  - Hero Pose
+  - Three-Limbed Seated Forward Bend Pose
+Reclining Raised Arm Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - n/a
+  improved_strength_sites:
+  - Back
+  - Shoulder
+  - Arm
+  - Leg
+  - Abdomen
+  intensity_level: Low
+Reclining Revolved Big Toe Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Abdomen
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+Reclining Spinal Twist Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+Reclining Thunderbolt Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Fish Pose
+  - Intense Side Stretch Pose
+  - Lotus Pose
+  - Raised Legs Pose
+Reclining Trivikrama's Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Extended Hand to Big Toe Pose A
+  - Extended Hand to Big Toe Pose B
+  - Extended Side Angle Pose
+  - Monkey Pose
+  - Reclining Big Toe Pose A
+  - Reclining Big Toe Pose B
+Reverse Table Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Buttocks
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Cow Pose
+  - Table Pose
+Reverse Warrior Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Warrior II Pose
+Revolved Anjaneya's Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Buttocks
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+Revolved Bound Side Angle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Hip-Joint
+  - Leg
+  - Knee
+  - Foot
+  - Ankle
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Crescent High Lunge Pose
+  - Revolved Anjaneya's Pose
+  - Revolved Triangle Pose
+  - Threading the Needle Pose
+Revolved Fierce Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Buttocks
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Extended Side Angle Pose
+  - Fierce Pose
+  - Revolved Anjaneya's Pose
+Revolved Hand to Big Toe Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Foot
+  - Ankle
+  - Knee
+  - Leg
+  - Hip-Joint
+  - Back
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Extended Hand to Big Toe Pose A
+  - Revolved Side Angle Pose
+  - Revolved Triangle Pose
+Revolved Head to Knee Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  intensity_level: Low
+  prep_poses:
+  - Extended Side Angle Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Revolved Side Angle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Back
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Extended Side Angle Pose
+  - Fierce Pose
+  - Revolved Triangle Pose
+  - Warrior I Pose
+Revolved Standing Wide-Legged Forward Bend Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Abdomen
+  - Wrist
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Back
+  - Abdomen
+  - Shoulder
+  - Arm
+  intensity_level: Medium
+  prep_poses:
+  - Extended Side Angle Pose
+  - Extended Triangle Pose
+  - Half Standing Forward Bend Pose
+Revolved Triangle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Back
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Extended Triangle Pose
+  - Revolved Standing Wide-Legged Forward Bend Pose
+  - Warrior I Pose
+Revolving Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Neck
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Bound Hand Headstand Pose A
+  - Half Lord of the Fishes Pose
+  - Marichi's Pose C
+  - Marichi's Pose D
+  - Two-Legged Inverted Staff Pose
+  - Upward Bow Pose
+Rooster Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Embryo in Womb Pose
+  - Four-Limbed Staff Pose
+  - Lotus Pose
+Same Angle Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Leg
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Bound Angle Pose A
+  - Goddess Pose
+  - Seated Wide Angle Pose A
+  - Side Lunge Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Scale Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  - Knee
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Lotus Pose
+  - Pendant Pose
+Scorpion Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Leg
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Camel Pose
+  - Dolphin Pose
+  - Feathered Peacock Pose
+  - Forearm Plank Pose
+  - Pigeon Pose A
+  - Side Plank Pose
+  - Two-Legged Inverted Staff Pose
+Seal Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Shoulder
+  - Arm
+  intensity_level: Low
+  prep_poses:
+  - Sphinx Pose
+Seated Figure Four Stretch Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Leg
+  - Back
+  improved_strength_sites:
+  - Back
+  intensity_level: Low
+  prep_poses:
+  - Extended Triangle Pose
+  - Fierce Pose
+  - Staff Pose
+  - Warrior II Pose
+  - Warrior I Pose
+Seated Forward Bend Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Ankle
+  - Foot
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Downward Facing Dog Pose
+  - Feet on Hands Pose
+  - Staff Pose
+  - Standing Forward Bend Pose
+Seated Forward Bend Pose B:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Foot
+  - Ankle
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Seated Forward Bend Pose A
+  - Staff Pose
+  - Standing Forward Bend Pose
+Seated Forward Bend Pose C:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Foot
+  - Ankle
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Seated Forward Bend Pose B
+  - Staff Pose
+  - Standing Forward Bend Pose
+Seated Wide Angle Pose A:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Bound Angle Pose A
+  - Standing Wide-Legged Forward Bend Pose A
+  - Standing Wide-Legged Forward Bend Pose D
+Seated Wide Angle Pose B:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Leg
+  - Hip-Joint
+  - Chest
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Extended Triangle Pose
+  - Seated Wide Angle Pose A
+  - Standing Wide-Legged Forward Bend Pose D
+Shoulder Pressing Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  - Neck
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Four-Limbed Staff Pose
+  - Garland Pose
+  - Head to Knee Pose A
+  - Marichi's Pose A
+Shoulder Supported Bridge Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Neck
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Cobra Pose
+  - Standing Wide-Legged Forward Bend Pose C
+  - Upward Facing Dog Pose
+  - Warrior I Pose
+Side Bow Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Cobra Pose
+  - Locust Pose
+  - Locust Pose A
+  - Locust Pose B
+  - Shoulder Supported Bridge Pose
+  - Upward Bow Pose
+  - Upward Facing Dog Pose
+Side Crane Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Four-Limbed Staff Pose
+  - Marichi's Pose C
+  - Plank Pose
+  - Revolved Side Angle Pose
+Side Lunge Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Foot
+  - Ankle
+  intensity_level: Medium
+  prep_poses:
+  - Crescent High Lunge Pose
+  - Goddess Pose
+  - Standing Wide-Legged Forward Bend Pose A
+  - Warrior II Pose
+Side Plank Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Balancing Table Pose
+  - Plank Pose
+Sivananda Triangle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Leg
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Extended Side Angle Pose
+  - Half Moon Pose
+Sleeping Tortoise Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Leg
+  - Hip-Joint
+  - Abdomen
+  - Back
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Diamond Stretch Pose
+  - Happy Baby Pose
+  - Marichi's Pose D
+  - Tortoise Pose
+Sleeping Upward Leg Thunderbolt Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Bharadvaja's Pose
+  - Plow Pose
+  - Symbol of Yoga Pose
+Sphinx Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Shoulder
+  intensity_level: Low
+Staff Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Half Standing Forward Bend Pose
+Standing Forward Bend Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Rag Doll Pose
+Standing Split Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Intense Side Stretch Pose
+  - Standing Forward Bend Pose
+  - Three-Legged Dog Pose
+  - Warrior III Pose
+Standing Wide-Legged Forward Bend Pose A:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Extended Side Angle Pose
+  - Extended Triangle Pose
+  - Standing Forward Bend Pose
+Standing Wide-Legged Forward Bend Pose B:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Feet on Hands Pose
+  - Half Standing Forward Bend Pose
+  - Standing Forward Bend Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Standing Wide-Legged Forward Bend Pose C:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Feet on Hands Pose
+  - Half Standing Forward Bend Pose
+  - Standing Forward Bend Pose
+  - Standing Wide-Legged Forward Bend Pose A
+  - Standing Wide-Legged Forward Bend Pose B
+Standing Wide-Legged Forward Bend Pose D:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Leg
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Extended Triangle Pose
+  - Standing Wide-Legged Forward Bend Pose A
+  - Standing Wide-Legged Forward Bend Pose B
+  - Standing Wide-Legged Forward Bend Pose C
+Supported Shoulderstand Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Vertebral-Column
+  - Neck
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Neck
+  - Shoulder
+  intensity_level: Medium
+  prep_poses:
+  - Boat Pose
+  - Four-Limbed Staff Pose
+  - Plank Pose
+  - Seated Forward Bend Pose A
+  - Standing Wide-Legged Forward Bend Pose C
+Symbol of Yoga Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Bound Lotus Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Intense Side Stretch Pose
+  - Lotus Pose
+  - Marichi's Pose A
+  - Marichi's Pose B
+  - Marichi's Pose C
+  - Marichi's Pose D
+  - Standing Wide-Legged Forward Bend Pose C
+Table Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: Low
+Threading the Needle Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  intensity_level: Low
+  prep_poses:
+  - Child's Pose
+Three-Legged Dog Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Wrist
+  - Back
+  - Shoulder
+  - Leg
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Leg
+  - Buttocks
+  intensity_level: Medium
+  prep_poses:
+  - Downward Facing Dog Pose
+  - Half Standing Forward Bend Pose
+Three-Limbed Seated Forward Bend Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Half Frog Pose
+  - Seated Forward Bend Pose A
+  - Standing Forward Bend Pose
+Toe Squat Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Foot
+  - Ankle
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  intensity_level: Low
+Toe Stand Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Foot
+  - Ankle
+  - Leg
+  - Hip-Joint
+  - Buttocks
+  improved_strength_sites:
+  - Back
+  - Foot
+  - Ankle
+  - Leg
+  - Buttocks
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Fierce Pose
+  - Half Bound Lotus Standing Forward Bend Pose
+  - Tree Pose
+Tortoise Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - n/a
+  intensity_level: High
+  prep_poses:
+  - Marichi's Pose A
+  - Marichi's Pose B
+  - Rag Doll Pose
+  - Standing Wide-Legged Forward Bend Pose A
+Tree Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Knee
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Foot
+  - Ankle
+  - Knee
+  - Leg
+  - Hip-Joint
+  intensity_level: Medium
+  prep_poses:
+  - Extended Hand to Big Toe Pose B
+  - Mountain Pose
+Two Feet Behind Head Pose A:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Neck
+  intensity_level: High
+  prep_poses:
+  - Basic One-Legged King Pigeon Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - One Foot Behind Head Pose A
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+Two Feet Behind Head Pose B:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  - Back
+  - Leg
+  - Hip-Joint
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Embryo in Womb Pose
+  - Marichi's Pose D
+  - One Foot Behind Head Pose A
+  - One Foot Behind Head Pose B
+  - Shoulder Pressing Pose
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+  - Two Feet Behind Head Pose A
+Two-Legged Inverted Staff Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  improved_strength_sites:
+  - Arm
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  intensity_level: High
+  prep_poses:
+  - Shoulder Supported Bridge Pose
+  - Upward Bow Pose
+Two-Legged Koundinya's Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Chest
+  - Hand
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Crane Pose
+  - Four-Limbed Staff Pose
+  - Marichi's Pose C
+  - Revolved Side Angle Pose
+  - Seated Forward Bend Pose A
+  - Side Crane Pose
+Unsupported Shoulderstand Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Shoulder
+  - Neck
+  - Vertebral-Column
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Chest
+  - Neck
+  - Shoulder
+  - Buttocks
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Supported Shoulderstand Pose
+Upward Bow Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Bow Pose
+  - Locust Pose
+  - Puppy Dog Pose
+  - Shoulder Supported Bridge Pose
+  - Upward Plank Pose
+Upward Facing Dog Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Wrist
+  intensity_level: Medium
+  prep_poses:
+  - Cobra Pose
+  - Four-Limbed Staff Pose
+  - Plank Pose
+Upward Facing Seated Forward Bend Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  improved_strength_sites:
+  - Back
+  - Abdomen
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Big Toe Pose
+  - Boat Pose
+  - Extended Triangle Pose
+  - Feet on Hands Pose
+  - Reclining Angle Pose
+  - Seated Forward Bend Pose A
+  - Standing Forward Bend Pose
+Upward Lotus Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Neck
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  intensity_level: Medium
+  prep_poses:
+  - Embryo in Womb Pose
+  - Half Bound Lotus Seated Forward Bend Pose
+  - Lotus Pose
+  - Supported Shoulderstand Pose
+  - Unsupported Shoulderstand Pose
+Upward Plank Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Wrist
+  - Chest
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Hand
+  - Shoulder
+  - Wrist
+  - Shoulder
+  - Buttocks
+  - Leg
+  intensity_level: Medium
+  prep_poses:
+  - Four-Limbed Staff Pose
+  - Plank Pose
+  - Raised Arm Pose
+  - Standing Wide-Legged Forward Bend Pose C
+Warrior I Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Leg
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Anjaneya's Pose
+  - Crescent High Lunge Pose
+  - Fierce Pose
+  - Upward Facing Dog Pose
+Warrior II Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Chest
+  - Leg
+  - Hip-Joint
+  - Knee
+  - Foot
+  - Ankle
+  improved_strength_sites:
+  - Back
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Abdomen
+  intensity_level: Medium
+  prep_poses:
+  - Warrior I Pose
+Warrior III Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Hip-Joint
+  - Buttocks
+  - Leg
+  - Shoulder
+  - Chest
+  improved_strength_sites:
+  - Back
+  - Foot
+  - Ankle
+  - Knee
+  - Hip-Joint
+  - Leg
+  - Buttocks
+  - Abdomen
+  - Shoulder
+  - Arm
+  intensity_level: High
+  prep_poses:
+  - Intense Side Stretch Pose
+  - Revolved Triangle Pose
+  - Warrior I Pose
+Wild Thing Pose:
+  experience_level: Intermediate
+  improved_mobility_sites:
+  - Abdomen
+  - Chest
+  - Hip-Joint
+  - Shoulder
+  - Vertebral-Column
+  - Wrist
+  improved_strength_sites:
+  - Abdomen
+  - Arm
+  - Back
+  - Chest
+  - Hand
+  - Leg
+  - Buttocks
+  - Shoulder
+  - Wrist
+  intensity_level: High
+  prep_poses:
+  - Half Circle Pose
+  - Side Plank Pose
+  - Upward Facing Dog Pose
+Wind Relieving Pose:
+  experience_level: Beginner
+  improved_mobility_sites:
+  - Hip-Joint
+  - Leg
+  - Buttocks
+  - Back
+  improved_strength_sites:
+  - n/a
+  intensity_level: Low
+  prep_poses:
+  - Knees to Chest Pose
+Yoga Sleep Pose:
+  experience_level: Advanced
+  improved_mobility_sites:
+  - Back
+  - Hip-Joint
+  - Buttocks
+  - Vertebral-Column
+  - Leg
+  - Shoulder
+  improved_strength_sites:
+  - Abdomen
+  - Back
+  - Leg
+  intensity_level: High
+  prep_poses:
+  - Basic One-Legged King Pigeon Pose
+  - Happy Baby Pose
+  - One Foot Behind Head Pose A
+  - One Foot Behind Head Pose B
+  - Sleeping Tortoise Pose
+  - Tortoise Pose
+  - Two Feet Behind Head Pose A
+  - Two Feet Behind Head Pose B
