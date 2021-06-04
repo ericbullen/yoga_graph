@@ -18,6 +18,12 @@ $ ls -l /tmp/yoga_graph.*
 
 From here, open the PNG file in your favorite image viewer.
 
+Here's an example graph based on the above input:
+![Asana Graph](yoga_graph.png)
+
+Here's Dot code on the above input:
+[Graph Code](yoga_graph.dot)
+
 Have fun.
 
 ---
