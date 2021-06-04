@@ -1,4 +1,4 @@
-This is a docker container to generate a GraphViz directional graph of Yoga Asanas that work well together. This is determined from the yoga_asanas.yaml file.
+This is a docker container to generate a GraphViz directional graph of Yoga asanas that work well together. This is determined from the `yoga_asanas.yaml` file.
 
 You can build the docker container locally by doing:
 
