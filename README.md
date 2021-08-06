@@ -10,7 +10,7 @@ $ make build
 From there, you can run (the parameters currently are *Case Sensitive*):
 
 ```shell
-$ docker run -v /tmp:/data -e EXPERIENCE_LEVELS="Beginner" -e INTENSITY_LEVELS="Low" -e STRENGTH_AREAS="Back,Abdomen" -e MOBILITY_AREAS="Back,Abdomen" --rm yoga_asana_graph:1.0.0
+$ docker run -v /tmp:/data -e EXPERIENCE_LEVELS="Beginner" -e INTENSITY_LEVELS="Low" -e STRENGTH_AREAS="Back,Abdomen" -e MOBILITY_AREAS="Back,Abdomen" --rm yoga_graph:1.0.0
 $ ls -l /tmp/yoga_graph.*
   36K -rw-r--r--. 1 nobody nobody  35K Jun  4 13:11 /tmp/yoga_graph.dot
 1000K -rw-r--r--. 1 nobody nobody 999K Jun  4 13:11 /tmp/yoga_graph.png
