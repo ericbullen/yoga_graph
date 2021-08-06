@@ -1,4 +1,5 @@
 .PHONY: build
+WORKDIR := $(shell pwd)
 PKG_NAME := $(shell basename $(WORKDIR))
 
 build:
