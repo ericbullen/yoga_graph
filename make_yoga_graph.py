@@ -39,7 +39,7 @@ class Yoga(object):
     def load_data(self, yoga_data_file):
         pose_data = dict()
 
-        with open(yoga_data_file, "r") as fh:
+        with open(yoga_data_file, "r", encoding="utf8") as fh:
             pose_data = yaml.load(fh, Loader=yaml.FullLoader)
 
         return pose_data
@@ -288,7 +288,7 @@ if __name__ == "__main__":
 
     graph = yoga.make_graph(interested_poses=interested_poses, limit_to_poses=interested_poses, min_chain_len=min_chain_len)
 
-    with open("/data/yoga_graph.dot", "w") as fh:
+    with open("/data/yoga_graph.dot", "w", encoding="utf8") as fh:
         fh.write(graph)
 
     subprocess.run(shlex.split("dot -Tpng /data/yoga_graph.dot -o /data/yoga_graph.png"))
